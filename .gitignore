@@ -1,5 +1,6 @@
 third-party/fizzle/
 third-party/LibAFL/
+third-party/protocolguard/
 third-party/LibAFLstar/.git.upstream/
 third-party/LibAFLstar/target/
 **/__pycache__/
